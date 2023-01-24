@@ -1,6 +1,14 @@
-# Nuxt 3 Minimal Starter
+# Vuejs-Nuxt-Auth-TokenBase
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This is a Nuxt sample project that its Auth service is on the Base of Token .
+
+In this project we separated Backend and FrontEnd.
+
+Backend created with Laravel that its source code is here : 
+Look at the [Back-End Source Code](https://github.com/jamaljalali68/laravelApiAuth-tokenBase-cookieBase) to learn more.
+
+FrontEnd part Developed by Vuejs (Nuxt) that i hope it be helpful for developers.
+
 
 ## Setup
 
@@ -25,18 +33,4 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
-## Production
 
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
